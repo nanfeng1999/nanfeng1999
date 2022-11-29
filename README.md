@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- I’m currently studying in Peking University
 - I’m currently learning SOFA-RPC and RocketMQ
 - How to reach me: nanfeng_yzy@163.com
 
