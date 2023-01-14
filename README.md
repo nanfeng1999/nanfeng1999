@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I’m currently learning SOFA-RPC and RocketMQ
+- I’m currently learning dubbo-go
 - How to reach me: nanfeng_yzy@163.com
 
 ### My contribution to open source 👋
