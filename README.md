@@ -2,9 +2,9 @@
 
 ![Nanfeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanfeng1999&bg_color=30,C2FFD8,465EFB&title_color=fff&text_color=fff)
 
-🎓 Peking University
+🎓 School：Peking University
 
-💻 Interested in distributed system, database and rpc.
+💻 Interest：Interested in distributed system, database and rpc.
 
 ✒️ Blog：[nanfeng.work](https://nanfeng1999.github.io/)
 
