@@ -1,3 +1,7 @@
+### Hi, I am nanfeng
+
+![Nanfeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanfeng1999&bg_color=30,C2FFD8,465EFB&title_color=fff&text_color=fff)
+
 🎓 Peking University
 
 💻 Interested in distributed system, database and rpc.
