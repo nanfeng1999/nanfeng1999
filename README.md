@@ -12,7 +12,7 @@
 
 #### 🍭 what I'm currently working on
 
-- [nanfeng1999/6.5840](https://github.com/nanfeng1999/6.5840) - MIT6.824/6.5840课程代码 (1 week ago)
+- [nanfeng1999/6.5840](https://github.com/nanfeng1999/6.5840) - MIT6.824/6.5840课程代码 (2 weeks ago)
 - [nanfeng1999/nanfeng1999.github.io](https://github.com/nanfeng1999/nanfeng1999.github.io) -  (1 month ago)
 - [nanfeng1999/simple-db-hw-2021](https://github.com/nanfeng1999/simple-db-hw-2021) -  (1 month ago)
 - [apache/dubbo-website](https://github.com/apache/dubbo-website) - Apache Dubbo documents (2 months ago)
