@@ -32,4 +32,4 @@
 - [MIT6.830 LAB4 学习笔记](https://nanfeng1999.github.io/mit6830-lab4-xue-xi-bi-ji/) (1 month ago)
 - [MIT6.830 LAB3 学习笔记](https://nanfeng1999.github.io/mit6830-lab3-xue-xi-bi-ji/) (2 months ago)
 - [dubbo-go优雅上下线代码解读](https://nanfeng1999.github.io/dubbo-go-you-ya-shang-xia-xian-dai-ma-jie-du/) (2 months ago)
-- [MIT6.830 LAB2 学习笔记](https://nanfeng1999.github.io/mit6830-lab-xue-xi-bi-ji/) (2 months ago)
+- [MIT6.830 LAB2 学习笔记](https://nanfeng1999.github.io/mit6830-lab-xue-xi-bi-ji/) (3 months ago)
