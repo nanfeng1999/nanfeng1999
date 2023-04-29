@@ -20,8 +20,8 @@
 
 #### 📌 my recent pull requests
 
-- [[Enhancement] separate life cycle of base table and its materialized views](https://github.com/apache/doris/pull/19210) on [apache/doris](https://github.com/apache/doris) (today)
-- [[feature](analysis) insert overwrite table](https://github.com/apache/doris/pull/19090) on [apache/doris](https://github.com/apache/doris) (2 days ago)
+- [[Enhancement] separate life cycle of base table and its materialized views](https://github.com/apache/doris/pull/19210) on [apache/doris](https://github.com/apache/doris) (1 day ago)
+- [[feature](analysis) insert overwrite table](https://github.com/apache/doris/pull/19090) on [apache/doris](https://github.com/apache/doris) (3 days ago)
 - [[feature](analysis)insert overwrite table](https://github.com/apache/doris/pull/18638) on [apache/doris](https://github.com/apache/doris) (2 weeks ago)
 - [add:graceful_shutdown](https://github.com/apache/dubbo-website/pull/1861) on [apache/dubbo-website](https://github.com/apache/dubbo-website) (3 months ago)
 - [Add connection num feature](https://github.com/sofastack/sofa-boot/pull/1038) on [sofastack/sofa-boot](https://github.com/sofastack/sofa-boot) (5 months ago)
