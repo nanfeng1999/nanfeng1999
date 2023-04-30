@@ -12,11 +12,11 @@
 
 #### 🍭 what I'm currently working on
 
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database. (today)
 - [nanfeng1999/6.5840](https://github.com/nanfeng1999/6.5840) - MIT6.824/6.5840课程代码 (1 month ago)
 - [nanfeng1999/nanfeng1999.github.io](https://github.com/nanfeng1999/nanfeng1999.github.io) -  (2 months ago)
 - [nanfeng1999/simple-db-hw-2021](https://github.com/nanfeng1999/simple-db-hw-2021) -  (2 months ago)
 - [apache/dubbo-website](https://github.com/apache/dubbo-website) - Apache Dubbo documents (3 months ago)
-- [sofastack/sofa-boot](https://github.com/sofastack/sofa-boot) - SOFABoot is a framework that enhances Spring Boot and fully compatible with it, provides readiness check, class isolation, etc. (5 months ago)
 
 #### 📌 my recent pull requests
 
