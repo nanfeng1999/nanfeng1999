@@ -20,7 +20,7 @@
 
 #### 📌 my recent pull requests
 
-- [[Feature] support insert overwrite stmt](https://github.com/apache/doris/pull/19616) on [apache/doris](https://github.com/apache/doris) (1 day ago)
+- [[Feature](insert) support insert overwrite stmt](https://github.com/apache/doris/pull/19616) on [apache/doris](https://github.com/apache/doris) (1 day ago)
 - [[feature](analysis) insert overwrite table](https://github.com/apache/doris/pull/19473) on [apache/doris](https://github.com/apache/doris) (5 days ago)
 - [[feature](analysis) insert overwrite table](https://github.com/apache/doris/pull/19470) on [apache/doris](https://github.com/apache/doris) (5 days ago)
 - [[feature-wip](mv lifecycle) separate life cycle of base table and its materialized views](https://github.com/apache/doris/pull/19210) on [apache/doris](https://github.com/apache/doris) (2 weeks ago)
