@@ -24,7 +24,7 @@
 - [[feature](analysis) insert overwrite table](https://github.com/apache/doris/pull/19473) on [apache/doris](https://github.com/apache/doris) (2 weeks ago)
 - [[feature](analysis) insert overwrite table](https://github.com/apache/doris/pull/19470) on [apache/doris](https://github.com/apache/doris) (2 weeks ago)
 - [[feature-wip](mv lifecycle) separate life cycle of base table and its materialized views](https://github.com/apache/doris/pull/19210) on [apache/doris](https://github.com/apache/doris) (3 weeks ago)
-- [[feature](analysis) insert overwrite table](https://github.com/apache/doris/pull/19090) on [apache/doris](https://github.com/apache/doris) (3 weeks ago)
+- [[feature](analysis) insert overwrite table](https://github.com/apache/doris/pull/19090) on [apache/doris](https://github.com/apache/doris) (4 weeks ago)
 
 #### 📄 my recent blog posts
 
