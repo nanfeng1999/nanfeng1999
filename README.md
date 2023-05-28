@@ -12,7 +12,7 @@
 
 #### 🍭 what I'm currently working on
 
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database. (1 week ago)
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database. (2 weeks ago)
 - [nanfeng1999/nanfeng1999.github.io](https://github.com/nanfeng1999/nanfeng1999.github.io) -  (2 weeks ago)
 - [nanfeng1999/6.5840](https://github.com/nanfeng1999/6.5840) - MIT6.824/6.5840课程代码 (2 months ago)
 - [nanfeng1999/simple-db-hw-2021](https://github.com/nanfeng1999/simple-db-hw-2021) -  (3 months ago)
@@ -23,7 +23,7 @@
 - [[Feature](insert) support insert overwrite stmt](https://github.com/apache/doris/pull/19616) on [apache/doris](https://github.com/apache/doris) (2 weeks ago)
 - [[feature](analysis) insert overwrite table](https://github.com/apache/doris/pull/19473) on [apache/doris](https://github.com/apache/doris) (2 weeks ago)
 - [[feature](analysis) insert overwrite table](https://github.com/apache/doris/pull/19470) on [apache/doris](https://github.com/apache/doris) (2 weeks ago)
-- [[feature-wip](mv lifecycle) separate life cycle of base table and its materialized views](https://github.com/apache/doris/pull/19210) on [apache/doris](https://github.com/apache/doris) (4 weeks ago)
+- [[feature-wip](mv lifecycle) separate life cycle of base table and its materialized views](https://github.com/apache/doris/pull/19210) on [apache/doris](https://github.com/apache/doris) (1 month ago)
 - [[feature](analysis) insert overwrite table](https://github.com/apache/doris/pull/19090) on [apache/doris](https://github.com/apache/doris) (1 month ago)
 
 #### 📄 my recent blog posts
