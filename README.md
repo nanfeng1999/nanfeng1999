@@ -20,11 +20,11 @@
 
 #### 📌 my recent pull requests
 
+- [[typo](doc)1.2 fix some writing errors](https://github.com/apache/doris/pull/20651) on [apache/doris](https://github.com/apache/doris) (today)
 - [[Feature](insert) support insert overwrite stmt](https://github.com/apache/doris/pull/19616) on [apache/doris](https://github.com/apache/doris) (3 weeks ago)
 - [[feature](analysis) insert overwrite table](https://github.com/apache/doris/pull/19473) on [apache/doris](https://github.com/apache/doris) (1 month ago)
 - [[feature](analysis) insert overwrite table](https://github.com/apache/doris/pull/19470) on [apache/doris](https://github.com/apache/doris) (1 month ago)
 - [[feature-wip](mv lifecycle) separate life cycle of base table and its materialized views](https://github.com/apache/doris/pull/19210) on [apache/doris](https://github.com/apache/doris) (1 month ago)
-- [[feature](analysis) insert overwrite table](https://github.com/apache/doris/pull/19090) on [apache/doris](https://github.com/apache/doris) (1 month ago)
 
 #### 📄 my recent blog posts
 
