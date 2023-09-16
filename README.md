@@ -30,6 +30,6 @@
 
 - [JAVA CUP中文文档](https://nanfeng1999.github.io/java-cup-zhong-wen-wen-dang/) (4 months ago)
 - [Doris编译指南](https://nanfeng1999.github.io/doris-bian-yi-zhi-nan/) (4 months ago)
-- [MIT6.824 LAB 1: MapReduce](https://nanfeng1999.github.io/mit6824-lab-1-mapreduce/) (6 months ago)
+- [MIT6.824 LAB 1: MapReduce](https://nanfeng1999.github.io/mit6824-lab-1-mapreduce/) (7 months ago)
 - [MIT6.830 LAB4 学习笔记](https://nanfeng1999.github.io/mit6830-lab4-xue-xi-bi-ji/) (7 months ago)
 - [MIT6.830 LAB3 学习笔记](https://nanfeng1999.github.io/mit6830-lab3-xue-xi-bi-ji/) (7 months ago)
