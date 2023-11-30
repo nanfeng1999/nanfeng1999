@@ -20,7 +20,7 @@
 
 #### 📌 my recent pull requests
 
-- [[feature](tvf) doris support kafka tvf](https://github.com/apache/doris/pull/27579) on [apache/doris](https://github.com/apache/doris) (3 days ago)
+- [[feature](tvf) doris support kafka tvf](https://github.com/apache/doris/pull/27579) on [apache/doris](https://github.com/apache/doris) (4 days ago)
 - [[Enhancement](Column) default value for bigint should not has to be quoted](https://github.com/apache/doris/pull/20721) on [apache/doris](https://github.com/apache/doris) (5 months ago)
 - [[doc](insert-overwrite)  add related doc](https://github.com/apache/doris/pull/20657) on [apache/doris](https://github.com/apache/doris) (5 months ago)
 - [[doc](insert-overwrite)  add related doc](https://github.com/nanfeng1999/doris/pull/1) on [nanfeng1999/doris](https://github.com/nanfeng1999/doris) (5 months ago)
