@@ -12,7 +12,7 @@
 
 #### 🍭 what I'm currently working on
 
-- [nanfeng1999/nanfeng1999.github.io](https://github.com/nanfeng1999/nanfeng1999.github.io) -  (2 days ago)
+- [nanfeng1999/nanfeng1999.github.io](https://github.com/nanfeng1999/nanfeng1999.github.io) -  (3 days ago)
 - [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database. (6 months ago)
 - [nanfeng1999/6.5840](https://github.com/nanfeng1999/6.5840) - MIT6.824/6.5840课程代码 (8 months ago)
 - [nanfeng1999/simple-db-hw-2021](https://github.com/nanfeng1999/simple-db-hw-2021) -  (10 months ago)
@@ -30,6 +30,6 @@
 
 - [JAVA CUP中文文档](https://nanfeng1999.github.io/java-cup-zhong-wen-wen-dang/) (7 months ago)
 - [Doris编译指南](https://nanfeng1999.github.io/doris-bian-yi-zhi-nan/) (7 months ago)
-- [MIT6.824 LAB 1: MapReduce](https://nanfeng1999.github.io/mit6824-lab-1-mapreduce/) (9 months ago)
+- [MIT6.824 LAB 1: MapReduce](https://nanfeng1999.github.io/mit6824-lab-1-mapreduce/) (10 months ago)
 - [MIT6.830 LAB4 学习笔记](https://nanfeng1999.github.io/mit6830-lab4-xue-xi-bi-ji/) (10 months ago)
 - [MIT6.830 LAB3 学习笔记](https://nanfeng1999.github.io/mit6830-lab3-xue-xi-bi-ji/) (10 months ago)
