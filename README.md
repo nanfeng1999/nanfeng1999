@@ -20,11 +20,11 @@
 
 #### 📌 my recent pull requests
 
+- [[feature](expr) Support kill query by query_id](https://github.com/apache/doris/pull/28530) on [apache/doris](https://github.com/apache/doris) (today)
 - [[feature](tvf) doris support kafka tvf](https://github.com/apache/doris/pull/27579) on [apache/doris](https://github.com/apache/doris) (3 weeks ago)
 - [[Enhancement](Column) default value for bigint should not has to be quoted](https://github.com/apache/doris/pull/20721) on [apache/doris](https://github.com/apache/doris) (6 months ago)
 - [[doc](insert-overwrite)  add related doc](https://github.com/apache/doris/pull/20657) on [apache/doris](https://github.com/apache/doris) (6 months ago)
 - [[doc](insert-overwrite)  add related doc](https://github.com/nanfeng1999/doris/pull/1) on [nanfeng1999/doris](https://github.com/nanfeng1999/doris) (6 months ago)
-- [[typo](doc)1.2 fix some writing errors](https://github.com/apache/doris/pull/20651) on [apache/doris](https://github.com/apache/doris) (6 months ago)
 
 #### 📄 my recent blog posts
 
