@@ -12,7 +12,7 @@
 
 #### 🍭 what I'm currently working on
 
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database. (2 days ago)
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database. (3 days ago)
 - [nanfeng1999/nanfeng1999.github.io](https://github.com/nanfeng1999/nanfeng1999.github.io) -  (1 week ago)
 - [nanfeng1999/6.5840](https://github.com/nanfeng1999/6.5840) - MIT6.824/6.5840课程代码 (9 months ago)
 - [nanfeng1999/simple-db-hw-2021](https://github.com/nanfeng1999/simple-db-hw-2021) -  (10 months ago)
@@ -20,8 +20,8 @@
 
 #### 📌 my recent pull requests
 
-- [[fix](block) add block columns size dcheck](https://github.com/apache/doris/pull/28539) on [apache/doris](https://github.com/apache/doris) (3 days ago)
-- [[feature](expr) Support kill query by query_id](https://github.com/apache/doris/pull/28530) on [apache/doris](https://github.com/apache/doris) (4 days ago)
+- [[fix](block) add block columns size dcheck](https://github.com/apache/doris/pull/28539) on [apache/doris](https://github.com/apache/doris) (4 days ago)
+- [[feature](expr) Support kill query by query_id](https://github.com/apache/doris/pull/28530) on [apache/doris](https://github.com/apache/doris) (5 days ago)
 - [[feature](tvf) doris support kafka tvf](https://github.com/apache/doris/pull/27579) on [apache/doris](https://github.com/apache/doris) (3 weeks ago)
 - [[Enhancement](Column) default value for bigint should not has to be quoted](https://github.com/apache/doris/pull/20721) on [apache/doris](https://github.com/apache/doris) (6 months ago)
 - [[doc](insert-overwrite)  add related doc](https://github.com/apache/doris/pull/20657) on [apache/doris](https://github.com/apache/doris) (6 months ago)
@@ -32,4 +32,4 @@
 - [Doris编译指南](https://nanfeng1999.github.io/doris-bian-yi-zhi-nan/) (7 months ago)
 - [MIT6.824 LAB 1: MapReduce](https://nanfeng1999.github.io/mit6824-lab-1-mapreduce/) (10 months ago)
 - [MIT6.830 LAB4 学习笔记](https://nanfeng1999.github.io/mit6830-lab4-xue-xi-bi-ji/) (10 months ago)
-- [MIT6.830 LAB3 学习笔记](https://nanfeng1999.github.io/mit6830-lab3-xue-xi-bi-ji/) (10 months ago)
+- [MIT6.830 LAB3 学习笔记](https://nanfeng1999.github.io/mit6830-lab3-xue-xi-bi-ji/) (11 months ago)
