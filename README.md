@@ -12,7 +12,7 @@
 
 #### 🍭 what I'm currently working on
 
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database. (4 days ago)
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database. (today)
 - [nanfeng1999/nanfeng1999.github.io](https://github.com/nanfeng1999/nanfeng1999.github.io) -  (1 week ago)
 - [nanfeng1999/6.5840](https://github.com/nanfeng1999/6.5840) - MIT6.824/6.5840课程代码 (9 months ago)
 - [nanfeng1999/simple-db-hw-2021](https://github.com/nanfeng1999/simple-db-hw-2021) -  (10 months ago)
