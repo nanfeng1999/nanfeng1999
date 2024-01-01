@@ -1,4 +1,4 @@
-### 👋Hi, I am nanfeng
+### 👋 Hi, I am nanfeng
 ![](https://komarev.com/ghpvc/?username=nanfeng1999)
 
 - 🎓 School: Master's degree from Peking University.
@@ -13,7 +13,7 @@
 
 > Wishing you happiness and joy every day!
 
-### 📄 my recent blog posts
+### 📝 my recent blog posts
 {{range rss "https://nanfeng1999.github.io/atom.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
