@@ -1,26 +1,16 @@
 ### 👋Hi, I am nanfeng
+![](https://komarev.com/ghpvc/?username=nanfeng1999)
 
-![Nanfeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanfeng1999&bg_color=30,C2FFD8,465EFB&title_color=fff&text_color=fff)
+🎓 School: Master's degree from Peking University.
 
-🎓 School：Peking University
+🔍 Interests: Exploring distributed systems, databases, and storage.
 
-💻 Interest：Interested in distributed system, database and rpc.
+💻 Languages: Interested in Golang, Java, C++, Python.
 
-✒️ Blog：[nanfeng.work](https://nanfeng1999.github.io/)
+🎵 Hobbies: Embracing rap music 🎤, diving into books 📚, and staying fit 💪.
 
-📫 Email: [nanfeng_yzy@163.com](mailto:nanfeng_yzy@163.com)
+📱 WeChat: yzy20200701 (Before adding me to WeChat, please indicate your intention in the remarks)
 
-#### 🍭 what I'm currently working on
-{{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
+Wishing you happiness and joy every day!
 
-#### 📌 my recent pull requests
-{{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
 
-#### 📄 my recent blog posts
-{{range rss "https://nanfeng1999.github.io/atom.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
