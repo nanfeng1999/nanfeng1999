@@ -1,4 +1,4 @@
-### 👋Hi, I am nanfeng
+### 👋 Hi, I am nanfeng
 ![](https://komarev.com/ghpvc/?username=nanfeng1999)
 
 - 🎓 School: Master's degree from Peking University.
@@ -13,7 +13,7 @@
 
 > Wishing you happiness and joy every day!
 
-### 📄 my recent blog posts
+### 📝 my recent blog posts
 
 - [JAVA CUP中文文档](https://nanfeng1999.github.io/java-cup-zhong-wen-wen-dang/) (7 months ago)
 - [Doris编译指南](https://nanfeng1999.github.io/doris-bian-yi-zhi-nan/) (7 months ago)
