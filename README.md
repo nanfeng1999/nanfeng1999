@@ -21,7 +21,7 @@
 #### 📌 my recent pull requests
 
 - [[fix](doc)  Add the usage example of bos to the documentation of s3 tvf](https://github.com/apache/doris/pull/28899) on [apache/doris](https://github.com/apache/doris) (1 week ago)
-- [[fix](block) add block columns size dcheck](https://github.com/apache/doris/pull/28539) on [apache/doris](https://github.com/apache/doris) (1 week ago)
+- [[fix](block) add block columns size dcheck](https://github.com/apache/doris/pull/28539) on [apache/doris](https://github.com/apache/doris) (2 weeks ago)
 - [[feature](expr) Support kill query by query_id](https://github.com/apache/doris/pull/28530) on [apache/doris](https://github.com/apache/doris) (2 weeks ago)
 - [[feature](tvf) doris support kafka tvf](https://github.com/apache/doris/pull/27579) on [apache/doris](https://github.com/apache/doris) (1 month ago)
 - [[Enhancement](Column) default value for bigint should not has to be quoted](https://github.com/apache/doris/pull/20721) on [apache/doris](https://github.com/apache/doris) (6 months ago)
