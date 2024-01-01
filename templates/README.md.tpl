@@ -11,9 +11,6 @@
 
 - 📱 WeChat: yzy20200701 (Before adding me to WeChat, please indicate your intention in the remarks)
 
-> Wishing you happiness and joy every day!
+- 📝 Blog: [yzywork.xyz](https://www.yzywork.xyz/)
 
-### 📝 my recent blog posts
-{{range rss "https://nanfeng1999.github.io/atom.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
+> Wishing you happiness and joy every day!
