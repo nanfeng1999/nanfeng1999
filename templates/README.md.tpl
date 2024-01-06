@@ -11,6 +11,6 @@
 
 - 📱 WeChat: yzy20200701 (Before adding me to WeChat, please indicate your intention in the remarks)
 
-- 📝 Blog: [yzywork.xyz](https://f4ciwcwlfi.feishu.cn/wiki/EyPJwe85PiqkUZkHlnaceRUOnme)
+- 📝 Blog: [yzywork.xyz](https://www.yzywork.xyz/)
 
 > Wishing you happiness and joy every day!
